@@ -22,7 +22,7 @@
  
  > Order: (name_client), (name_product), (quantity)
  
- _For generating reports reports_
+ _For generating reports_
  
  > Report client
  
